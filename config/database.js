@@ -3,8 +3,8 @@ require("dotenv").config();
 
 exports.connect = () => {
   mongoose
-    // .connect(process.env.MONGODB_URL, {
-   .connect(`mongodb+srv://bollapragadakousik46:w5ylyanGAtr1YdPz@cluster0.5ns7wou.mongodb.net/?retryWrites=true&w=majority`, {
+    .connect(process.env.MONGODB_URL, {
+   // .connect(`mongodb+srv://bollapragadakousik46:w5ylyanGAtr1YdPz@cluster0.5ns7wou.mongodb.net/?retryWrites=true&w=majority`, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     })
