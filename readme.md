@@ -84,10 +84,13 @@ Job Page
 
 
 
+Signin Page
 
 ![sc1](https://github.com/Speed46/placement-cell/assets/101384882/a4c88ee4-5f2e-47af-aa69-8b6a74097a6b)
 
+Dashboard Page
 
+![sc2](https://github.com/Speed46/placement-cell/assets/101384882/200f58bf-4625-447d-a9c4-932014b9f7b8)
 
 
 
