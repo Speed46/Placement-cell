@@ -90,9 +90,31 @@ Signin Page
 
 Dashboard Page
 
-![sc2](https://github.com/Speed46/placement-cell/assets/101384882/200f58bf-4625-447d-a9c4-932014b9f7b8)
+![s1](https://github.com/Speed46/placement-cell/assets/101384882/08b952a4-1337-404f-8e6a-e29278865239)
 
 
+Dashboard Page Student Section
+
+![s2](https://github.com/Speed46/placement-cell/assets/101384882/92cbee4a-7a6a-49ca-bc84-de3a9bbeceeb)
+
+Dashboard Page Interview Section
+
+![s3](https://github.com/Speed46/placement-cell/assets/101384882/7e7ac77a-5103-40da-af1c-72de37e36c57)
+
+
+Add Student Page
+
+![s4](https://github.com/Speed46/placement-cell/assets/101384882/279bdb01-2c8b-4f0c-a298-62ab0fc8e1c3)
+
+
+Add Interview Page
+
+![s5](https://github.com/Speed46/placement-cell/assets/101384882/bd0dc2ac-2389-4b20-b0f4-83f9553f695e)
+
+
+Job Page
+
+![s6](https://github.com/Speed46/placement-cell/assets/101384882/b298e4c0-d8d0-4e78-a363-f566432f435b)
 
 
 
